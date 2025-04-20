@@ -1,0 +1,691 @@
+Internal Server Error: /api/news/categories/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The view news.views.get_categories_articles didn't return an HttpResponse object. It returned None instead.
+"POST /api/news/categories/?categories=[%22science%22] HTTP/1.1" 500 60510
+Internal Server Error: /api/news/categories/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The view news.views.get_categories_articles didn't return an HttpResponse object. It returned None instead.
+"POST /api/news/categories/?categories=[%22science%22] HTTP/1.1" 500 60510
+Internal Server Error: /api/news/categories/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The view news.views.get_categories_articles didn't return an HttpResponse object. It returned None instead.
+"POST /api/news/categories/?categories=[%22science%22] HTTP/1.1" 500 60510
+Internal Server Error: /api/news/categories/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The view news.views.get_categories_articles didn't return an HttpResponse object. It returned None instead.
+"POST /api/news/categories/?categories=[%22science%22] HTTP/1.1" 500 60510
+Internal Server Error: /api/news/categories/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The view news.views.get_categories_articles didn't return an HttpResponse object. It returned None instead.
+"POST /api/news/categories/?categories=[%22science%22] HTTP/1.1" 500 79565
+Internal Server Error: /api/news/categories/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The view news.views.get_categories_articles didn't return an HttpResponse object. It returned None instead.
+"POST /api/news/categories/?categories=[%22science%22] HTTP/1.1" 500 79565
+Internal Server Error: /api/news/categories/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The view news.views.get_categories_articles didn't return an HttpResponse object. It returned None instead.
+"POST /api/news/categories/?categories=[%22science%22] HTTP/1.1" 500 79565
+Internal Server Error: /api/news/populate/
+"GET /api/news/populate/ HTTP/1.1" 500 62
+Internal Server Error: /api/news/populate/
+"GET /api/news/populate/ HTTP/1.1" 500 62
+Internal Server Error: /api/news/populate/
+"GET /api/news/populate/ HTTP/1.1" 500 62
+Internal Server Error: /api/news/populate/
+"GET /api/news/populate/ HTTP/1.1" 500 62
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 94
+Internal Server Error: /api/news/populate/
+"GET /api/news/populate/ HTTP/1.1" 500 62
+Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '6e0e-130-65-254-16.ngrok-free.app'. You may need to add '6e0e-130-65-254-16.ngrok-free.app' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/utils/deprecation.py", line 119, in __call__
+    response = self.process_request(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/http/request.py", line 186, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'localhost:8000'. You may need to add 'localhost' to ALLOWED_HOSTS.
+Internal Server Error: /api/news/recommend_news/
+"GET /api/news/recommend_news/?user_id=2 HTTP/1.1" 500 104
+Internal Server Error: /api/news/update_user_preferences/2/
+"POST /api/news/update_user_preferences/2/ HTTP/1.1" 500 76
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 16, in __call__
+    reverse('token_refresh'),  # Add your token refresh URL if needed
+    ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'token_refresh' not found. 'token_refresh' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 86953
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 16, in __call__
+    reverse('token_refresh'),  # Add your token refresh URL if needed
+    ~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'token_refresh' not found. 'token_refresh' is not a valid view function or pattern name.
+"GET /favicon.ico HTTP/1.1" 500 86732
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 14, in __call__
+    reverse(''),
+    ~~~~~~~^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 86678
+Internal Server Error: /favicon.ico
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 14, in __call__
+    reverse(''),
+    ~~~~~~~^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/urls/base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/urls/resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+"GET /favicon.ico HTTP/1.1" 500 86464
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/rest_framework/response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/rest_framework/renderers.py", line 730, in render
+    template = loader.get_template(self.template)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+"GET /login/ HTTP/1.1" 500 97186
+Internal Server Error: /api/users/register/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 20, in __call__
+    if request.path in exempt_urls:
+                       ^^^^^^^^^^^
+NameError: name 'exempt_urls' is not defined
+"POST /api/users/register/ HTTP/1.1" 500 75577
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/rest_framework/response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/rest_framework/renderers.py", line 730, in render
+    template = loader.get_template(self.template)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+"GET /login/ HTTP/1.1" 500 97186
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/rest_framework/response.py", line 74, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/rest_framework/renderers.py", line 730, in render
+    template = loader.get_template(self.template)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+"GET /login/ HTTP/1.1" 500 97062
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=2 HTTP/1.1" 500 102020
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=2 HTTP/1.1" 500 102020
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 102020
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 102020
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 102018
+Internal Server Error: /api/news/user_preferences/
+"GET /api/news/user_preferences/?user_id=6 HTTP/1.1" 500 104
+Internal Server Error: /api/news/user_preferences/
+"GET /api/news/user_preferences/?user_id=6 HTTP/1.1" 500 104
+Internal Server Error: /api/news/user_preferences/
+"GET /api/news/user_preferences/?user_id=5 HTTP/1.1" 500 104
+Internal Server Error: /api/news/user_preferences/
+"GET /api/news/user_preferences/?user_id=4 HTTP/1.1" 500 104
+Internal Server Error: /api/news/user_preferences/
+"GET /api/news/user_preferences/?user_id=3 HTTP/1.1" 500 104
+Internal Server Error: /api/news/populate/
+"GET /api/news/populate/ HTTP/1.1" 500 62
+Internal Server Error: /api/news/populate/
+"GET /api/news/populate/ HTTP/1.1" 500 62
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 102235
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 102495
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 102495
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 102495
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=1 HTTP/1.1" 500 102495
+Internal Server Error: /api/news/recommend_news/
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 24, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+        jwt,
+    ...<7 lines>...
+        leeway=leeway,
+    )
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        payload, merged_options, audience=audience, issuer=issuer, leeway=leeway
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/.venv/lib/python3.13/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/saicharanreddyb/PycharmProjects/SmartRec/smartrec/smartrecapp/middleware.py", line 34, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"GET /api/news/recommend_news/?user_id=2 HTTP/1.1" 500 102495
