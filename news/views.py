@@ -51,9 +51,11 @@ def get_categories_articles(request):
             return JsonResponse({'error': 'An error occurred while fetching categories data.'}, status=500)
 
 @csrf_exempt
-def handle_click_view(request, user_id, news_id):
+def handle_click_view(request):
     if request.method == "POST":
         try:
+            user_id = request.GET.get('user_id')
+            news_id = request.GET.get('news_id')
             handle_user_click(user_id, news_id)
             return JsonResponse({"message": "User preferences updated successfully."})
         except Http404 as e:
