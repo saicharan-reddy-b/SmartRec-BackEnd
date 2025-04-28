@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'news',
     'corsheaders',
-    'smartrecapp'
+    'smartrecapp',
+    'rest_framework_simplejwt.token_blacklist'
 ]
 
 MIDDLEWARE = [
@@ -89,9 +90,9 @@ WSGI_APPLICATION = 'smartrec.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'smartrec',
+        'NAME': 'SmartRec-1',
         'USER': 'postgres',
-        'PASSWORD': 'admin',
+        'PASSWORD': '1612',
         'HOST': 'localhost',
         'PORT': '5432',
     }
@@ -144,6 +145,9 @@ NEWS_API_KEY = 'd641c361eb534848bc9633c93a79c403'
 SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': timedelta(days=1),  # Set access token expiry to 1 day
     'REFRESH_TOKEN_LIFETIME': timedelta(days=7),  # Set refresh token expiry to 7 days
+    'AUTH_TOKEN_CLASSES': ('rest_framework_simplejwt.tokens.AccessToken',),
+    'BLACKLIST_AFTER_ROTATION': True,
+    'ROTATE_REFRESH_TOKENS': True,
 }
 
 LOGGING = {
@@ -167,4 +171,11 @@ LOGGING = {
             'propagate': True,
         },
     },
+}
+
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': [
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    ]
 }
