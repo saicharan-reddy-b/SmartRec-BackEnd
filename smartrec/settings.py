@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'news',
+    'events',
     'corsheaders',
     'smartrecapp',
     'rest_framework_simplejwt.token_blacklist'
@@ -90,7 +91,7 @@ WSGI_APPLICATION = 'smartrec.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'SmartRec-1',
+        'NAME': 'smartrec',
         'USER': 'postgres',
         'PASSWORD': '1612',
         'HOST': 'localhost',

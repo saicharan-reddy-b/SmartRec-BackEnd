@@ -726,3 +726,110 @@ Traceback (most recent call last):
            ^^^^^^^^^^
 NameError: name 'TokenError' is not defined. Did you mean: 'TypeError'?
 "POST /logout/ HTTP/1.1" 500 95307
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+You're accessing the development server over HTTPS, but it only supports HTTP.
+Internal Server Error: /api/news/handle_click/
+Traceback (most recent call last):
+  File "/Users/sharathchandramummadi/Documents/Master's Project/Code/Smartrec-Backend/SmartRec-BackEnd/smartrecapp/middleware.py", line 26, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Documents/Master's Project/Code/Smartrec-Backend/SmartRec-BackEnd/smartrecapp/middleware.py", line 36, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"POST /api/news/handle_click/?user_id=1&news_id=5dafd7595cbd9c57d067f9d019898c9185963a2ae8037b6f9405f2d818c3fca4 HTTP/1.1" 500 88884
+Internal Server Error: /api/news/handle_click/
+Traceback (most recent call last):
+  File "/Users/sharathchandramummadi/Documents/Master's Project/Code/Smartrec-Backend/SmartRec-BackEnd/smartrecapp/middleware.py", line 26, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Documents/Master's Project/Code/Smartrec-Backend/SmartRec-BackEnd/smartrecapp/middleware.py", line 36, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"POST /api/news/handle_click/?user_id=1&news_id=1841b462fa6c8460c7ec583c70362c7483e4b13fdf84ce4e69148ffb30bfce51 HTTP/1.1" 500 88884
+Internal Server Error: /api/news/handle_click/
+Traceback (most recent call last):
+  File "/Users/sharathchandramummadi/Documents/Master's Project/Code/Smartrec-Backend/SmartRec-BackEnd/smartrecapp/middleware.py", line 26, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Documents/Master's Project/Code/Smartrec-Backend/SmartRec-BackEnd/smartrecapp/middleware.py", line 36, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"POST /api/news/handle_click/?user_id=1&news_id=5dafd7595cbd9c57d067f9d019898c9185963a2ae8037b6f9405f2d818c3fca4 HTTP/1.1" 500 89245
+Internal Server Error: /api/news/update_user_preferences/
+Traceback (most recent call last):
+  File "/Users/sharathchandramummadi/Documents/Master's Project/Code/Smartrec-Backend/SmartRec-BackEnd/smartrecapp/middleware.py", line 26, in __call__
+    payload = jwt.decode(token, settings.SECRET_KEY, algorithms=["HS256"])
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 211, in decode
+    decoded = self.decode_complete(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 163, in decode_complete
+    self._validate_claims(
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 249, in _validate_claims
+    self._validate_exp(payload, now, leeway)
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/jwt/api_jwt.py", line 307, in _validate_exp
+    raise ExpiredSignatureError("Signature has expired")
+jwt.exceptions.ExpiredSignatureError: Signature has expired
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/sharathchandramummadi/Library/Caches/JetBrains/PyCharm2023.3/demo/PyCharmLearningProject/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sharathchandramummadi/Documents/Master's Project/Code/Smartrec-Backend/SmartRec-BackEnd/smartrecapp/middleware.py", line 36, in __call__
+    raise AuthenticationFailed("Token has expired")
+rest_framework.exceptions.AuthenticationFailed: Token has expired
+"POST /api/news/update_user_preferences/?user_id=1 HTTP/1.1" 500 88715
